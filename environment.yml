@@ -1,0 +1,17 @@
+name: subgradient_langevin
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - ipython
+  - numpy
+  - matplotlib
+  - scipy
+  - imageio
+  - seaborn
+  - ipykernel
+  - tqdm
+  - conda-forge::pot
