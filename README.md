@@ -11,7 +11,7 @@ Part of the repository includes Jupyter Notebooks. To use the environment also i
 ```
 python -m ipykernel install --user --name=subgradient_langevin
 ```
-YOu should then be able to choose the environment by selecting the respective kernel in the Jupyter notebook.
+You should then be able to choose the environment by selecting the respective kernel in the Jupyter notebook.
 
 ## Reproducing the results
 ### Sampling
